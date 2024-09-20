@@ -16,7 +16,7 @@ rm -rf ~/.local/share/nvim
 ## Install NvChad.
 Install required packages archllinux.
 ```
-sudo pacman -S --needed neovim unzip luarocks xclip wl-clipboard
+sudo pacman -S --needed unzip luarocks xclip wl-clipboard
 ```
 Install required packages parrot.
 ```
